@@ -1,7 +1,7 @@
 # 🛡️ LinuxAudit — Outil d'Audit de Sécurité Linux Automatisé
 
 > Projet personnel réalisé dans le cadre du Mastère **Cybersécurité & Cloud — EFREI Paris**  
-> Jean Alioune Thiaw · 2024–2025
+> Alioune Thiaw · 2024–2025
 
 ---
 
