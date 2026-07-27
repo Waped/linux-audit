@@ -1,11 +1,11 @@
-# 🛡️ LinuxAudit — Outil d'Audit de Sécurité Linux Automatisé
+# LinuxAudit — Outil d'Audit de Sécurité Linux Automatisé
 
 > Projet personnel réalisé dans le cadre du Mastère **Cybersécurité & Cloud — EFREI Paris**  
 > Alioune Thiaw · 2024–2025
 
 ---
 
-## 📌 Présentation
+##  Présentation
 
 **LinuxAudit** est un outil d'audit de conformité et de sécurité pour systèmes Linux, développé en Python 3.10+.  
 Il analyse une machine locale et génère un rapport complet (JSON + HTML) identifiant les vulnérabilités et proposant des remédiations concrètes.
@@ -18,7 +18,7 @@ Il analyse une machine locale et génère un rapport complet (JSON + HTML) ident
 
 ---
 
-## 🎯 Fonctionnalités
+##  Fonctionnalités
 
 | Module            | Contrôles effectués                                              |
 |-------------------|------------------------------------------------------------------|
@@ -66,7 +66,7 @@ docker run --rm --privileged \
 
 ---
 
-## 📂 Structure du projet
+##  Structure du projet
 
 ```
 linux-audit/
@@ -88,7 +88,7 @@ linux-audit/
 
 ---
 
-## 📊 Exemple de rapport
+##  Exemple de rapport
 
 Le score de conformité est calculé ainsi :
 - Chaque finding **HIGH** retire 10 points
@@ -98,13 +98,13 @@ Le score de conformité est calculé ainsi :
 
 ---
 
-## 🔗 Liens utiles
+##  Liens utiles
 - [CIS Benchmarks](https://www.cisecurity.org/cis-benchmarks/)
 - [ANSSI Durcissement Linux](https://www.ssi.gouv.fr/guide/recommandations-de-securite-relatives-a-un-systeme-gnulinux/)
 - [OpenSCAP](https://www.open-scap.org/) — Alternative industrielle
 
 ---
 
-## 📄 Licence
+##  Licence
 
 MIT — Libre d'utilisation, de modification et de distribution.
